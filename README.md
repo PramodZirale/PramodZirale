@@ -1,3 +1,4 @@
+![logo](https://github.com/PramodZirale/PramodZirale/blob/main/29750.jpg)
 <h1 align="center">Hi 👋, I'm Pramod Zirale</h1>
 <h3 align="center">Professional Industrial Automation Specialist in Software & Hardware Integration, Design, Development, and IoT Applications from India</h3>
 
