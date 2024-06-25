@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodzirale&label=Profile%20views&color=0e75b6&style=flat" alt="pramodzirale" /> </p>
 
-- 🔭 I’m currently working on **Pyhton-PLC-Integration-Drivers**
+- 🔭 I’m currently working on **Python-PLC-Integration-Drivers**
 
 - 🌱 I’m currently learning **Python-django,Vue3.js,Course - 100 Days of Hell with Python Algo Trading**
 
