@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python-django,Vue3.js,Course - 100 Days of Hell with Python Algo Trading**
 
-- 💬 Ask me about **Python-Django ,Vue3.js & PLC- Integrations**
+- 💬 Ask me about **Python-Django ,Vue3.js & PLC- Integration**
 
 - 📫 How to reach me **pramodzirale@gmail.com**
 
