@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Python-PLC-Integration-Drivers****
 
-- 🌱 I’m currently learning **Python-django,Vue3.js,Course - 100 Days of Hell with Python Algo Trading**
+- 🌱 I’m currently learning **Python-django,Vue3.js,Course - 100 Days of Hell with Python Algo Trading***
 
 - 💬 Ask me about **Python-Django ,Vue3.js & PLC- Integration**
 
